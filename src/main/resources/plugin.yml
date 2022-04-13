@@ -1,0 +1,11 @@
+name: CokyzAntoninx
+version: 1.0
+author: Mirafii
+main: chat.Main
+commands:
+  group:
+    description: Set the player group
+  roll:
+    description: Roll a number
+  nick:
+    description: Set displayName for a player

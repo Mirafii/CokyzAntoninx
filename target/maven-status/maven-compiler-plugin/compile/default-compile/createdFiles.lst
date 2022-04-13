@@ -1,0 +1,8 @@
+chat\JoinListener.class
+chat\Chat.class
+chat\ChatListener.class
+chat\NickCommand.class
+chat\RollCommand.class
+chat\ChatCommand.class
+chat\ChatTools.class
+chat\Main.class
